@@ -66,7 +66,7 @@ void loop() {
 
 ## 📸 Screenshots
 
-!![스크린샷 1](https://github.com/DannyLimDH/IoT25-HW02/blob/main/media/hw2.png)
+![스크린샷 1](https://github.com/DannyLimDH/IoT25-HW02/blob/main/media/hw2.png)
 
 ---
 
